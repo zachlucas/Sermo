@@ -21,6 +21,8 @@ NSString* password = @"";
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    
+    NSLog(@"la: %@",_languagePicked);
 
     // white status bar
     [self setNeedsStatusBarAppearanceUpdate];
@@ -90,6 +92,7 @@ NSString* password = @"";
         
         // other fields can be set just like with PFObject
         //user[@"phone"] = @"415-392-0202";
+        user[@"nativeLanguage"] = _languagePicked;
         
         [user signUpInBackgroundWithBlock:^(BOOL succeeded, NSError *error) {
             if (!error) {
@@ -100,7 +103,7 @@ NSString* password = @"";
                                                     if (user) {
                                                         // Do stuff after successful login.
                                                         // Segue to main app
-                                                                                                                                                 [self performSegueWithIdentifier:@"doneSigningUpSegue" sender:nil];
+                                                        [self performSegueWithIdentifier:@"doneSigningUpSegue" sender:nil];
                                                     } else {
                                                         // The login failed. Check error to see why.
                                                     }
@@ -109,7 +112,7 @@ NSString* password = @"";
                 
                 
             } else {
-                NSString *errorString = [error userInfo][@"error"];
+                //NSString *errorString = [error userInfo][@"error"];
                 NSLog(@"%d",[error code]);
                 if ([error code] == 125) {
                     _noEmail.hidden = NO;
@@ -162,15 +165,7 @@ NSString* password = @"";
                            alpha:1.0f];
 }
 
--(void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender{
-    if([segue.identifier isEqualToString:@"signUpSuccessSegue"])
-    {
-        WelcomeViewController *controller = (WelcomeViewController *)segue.destinationViewController;
-        controller.email = email;
-        controller.username = username;
-        controller.password = password;
-    }
-}
+
 /*
 // returns the number of 'columns' to display.
 - (NSInteger)numberOfComponentsInPickerView:(UIPickerView *)nativeLanguagePicker

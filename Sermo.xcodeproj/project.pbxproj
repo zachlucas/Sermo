@@ -33,6 +33,7 @@
 		98139FAB1913F85C00A03E15 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 98139FA61913F85C00A03E15 /* StoreKit.framework */; };
 		98139FAC1913F85C00A03E15 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 98139FA71913F85C00A03E15 /* SystemConfiguration.framework */; };
 		98139FAF1914132900A03E15 /* x-mark-256.png in Resources */ = {isa = PBXBuildFile; fileRef = 98139FAE1914132900A03E15 /* x-mark-256.png */; };
+		982F8325191441DF004B7569 /* WhoDoYouWantToTalkToViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 982F8324191441DF004B7569 /* WhoDoYouWantToTalkToViewController.m */; };
 		9852B11619141FE400129D64 /* WelcomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9852B11519141FE400129D64 /* WelcomeViewController.m */; };
 /* End PBXBuildFile section */
 
@@ -78,6 +79,8 @@
 		98139FA61913F85C00A03E15 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		98139FA71913F85C00A03E15 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
 		98139FAE1914132900A03E15 /* x-mark-256.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "x-mark-256.png"; sourceTree = "<group>"; };
+		982F8323191441DF004B7569 /* WhoDoYouWantToTalkToViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WhoDoYouWantToTalkToViewController.h; sourceTree = "<group>"; };
+		982F8324191441DF004B7569 /* WhoDoYouWantToTalkToViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WhoDoYouWantToTalkToViewController.m; sourceTree = "<group>"; };
 		9852B11419141FE400129D64 /* WelcomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WelcomeViewController.h; sourceTree = "<group>"; };
 		9852B11519141FE400129D64 /* WelcomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WelcomeViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -169,6 +172,8 @@
 				98139F681913F7C000A03E15 /* Supporting Files */,
 				9852B11419141FE400129D64 /* WelcomeViewController.h */,
 				9852B11519141FE400129D64 /* WelcomeViewController.m */,
+				982F8323191441DF004B7569 /* WhoDoYouWantToTalkToViewController.h */,
+				982F8324191441DF004B7569 /* WhoDoYouWantToTalkToViewController.m */,
 			);
 			path = Sermo;
 			sourceTree = "<group>";
@@ -312,6 +317,7 @@
 			files = (
 				98139F7B1913F7C000A03E15 /* ViewController.m in Sources */,
 				9852B11619141FE400129D64 /* WelcomeViewController.m in Sources */,
+				982F8325191441DF004B7569 /* WhoDoYouWantToTalkToViewController.m in Sources */,
 				98139F721913F7C000A03E15 /* AppDelegate.m in Sources */,
 				98139F6E1913F7C000A03E15 /* main.m in Sources */,
 			);

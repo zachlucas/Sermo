@@ -1,18 +1,18 @@
 //
-//  WelcomeViewController.m
+//  WhoDoYouWantToTalkToViewController.m
 //  Sermo
 //
 //  Created by Zach Lucas on 5/2/14.
 //  Copyright (c) 2014 Zach Lucas. All rights reserved.
 //
 
-#import "WelcomeViewController.h"
+#import "WhoDoYouWantToTalkToViewController.h"
 
-@interface WelcomeViewController ()
+@interface WhoDoYouWantToTalkToViewController ()
 
 @end
 
-@implementation WelcomeViewController
+@implementation WhoDoYouWantToTalkToViewController
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {
@@ -27,31 +27,12 @@
 {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
-    //Language picker
-    self.languageArray  = [[NSArray alloc]         initWithObjects:@"English",@"Spanish",@"German",@"French",@"Portuguese",@"Italian" , nil];
 
     // white status bar
     [self setNeedsStatusBarAppearanceUpdate];
     
-    _SermoTitle.center = CGPointMake(150, -250);
-    _HiLabel.center = CGPointMake(150, -250);
-    _nativeLanguagePicker.center = CGPointMake(150, 650);
-    _ContinueButton.center = CGPointMake(150, 650);
-    _SermoTitle.layer.opacity = 0.1;
-    
-    [UIView animateWithDuration:2.0f
-                          delay:0
-                        options:UIViewAnimationOptionCurveEaseInOut
-                     animations:^
-     {
-         _SermoTitle.center = CGPointMake(200, 200);
-         _SermoTitle.layer.opacity = 1;
-         _HiLabel.center = CGPointMake(300, 300);
-         _nativeLanguagePicker.center = CGPointMake(300, 300);
-         _ContinueButton.center = CGPointMake(300, 300);
+    self.languageToArray  = [[NSArray alloc]         initWithObjects:@"RANDOM",@"English",@"Spanish",@"German",@"French",@"Portuguese",@"Italian" , nil];
 
-     }
-                     completion:nil];
 }
 
 - (void)didReceiveMemoryWarning
@@ -59,7 +40,6 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
-
 
 -(UIStatusBarStyle)preferredStatusBarStyle{
     return UIStatusBarStyleLightContent;
@@ -76,17 +56,6 @@
 }
 */
 
--(void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender{
-    if([segue.identifier isEqualToString:@"continueSignUpSegue"])
-    {
-        ViewController *controller = (ViewController *)segue.destinationViewController;
-        NSInteger row;
-        row = [_nativeLanguagePicker selectedRowInComponent:0];
-        controller.languagePicked = [_languageArray objectAtIndex:row];
-        NSLog(@"lagnuage: %@", controller.languagePicked);
-    }
-}
-
 // returns the number of 'columns' to display.
 - (NSInteger)numberOfComponentsInPickerView:(UIPickerView *)nativeLanguagePicker
 {
@@ -95,21 +64,21 @@
 }
 
 // returns the # of rows in each component..
-- (NSInteger)pickerView:(UIPickerView *)nativeLanguagePicker numberOfRowsInComponent: (NSInteger)component
+- (NSInteger)pickerView:(UIPickerView *)languageToSelector numberOfRowsInComponent: (NSInteger)component
 {
-    return 6;
+    return 7;
     
 }
 
--(NSString *)pickerView:(UIPickerView *)nativeLanguagePicker titleForRow:(NSInteger)row   forComponent:(NSInteger)component
+-(NSString *)pickerView:(UIPickerView *)languageToSelector titleForRow:(NSInteger)row   forComponent:(NSInteger)component
 {
-    return [self.languageArray objectAtIndex:row];
+    return [self.languageToArray objectAtIndex:row];
     
 }
 
-- (void)pickerView:(UIPickerView *)nativeLanguagePicker didSelectRow:(NSInteger)row   inComponent:(NSInteger)component{
+- (void)pickerView:(UIPickerView *)languageToSelector didSelectRow:(NSInteger)row   inComponent:(NSInteger)component{
     
-    NSLog(@"Selected Row %d", row);
+    NSLog(@"Selected Row %ld", (long)row);
     switch(row)
     {
             
@@ -142,7 +111,7 @@
 
 - (NSAttributedString *)pickerView:(UIPickerView *)pickerView attributedTitleForRow:(NSInteger)row forComponent:(NSInteger)component
 {
-    NSAttributedString *attString = [[NSAttributedString alloc] initWithString:[self.languageArray objectAtIndex:row] attributes:@{NSForegroundColorAttributeName:[UIColor whiteColor]}];
+    NSAttributedString *attString = [[NSAttributedString alloc] initWithString:[self.languageToArray objectAtIndex:row] attributes:@{NSForegroundColorAttributeName:[UIColor whiteColor]}];
     
     return attString;
     

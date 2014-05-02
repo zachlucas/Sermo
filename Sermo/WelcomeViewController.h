@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "ViewController.h"
 
 @interface WelcomeViewController : UIViewController <UIPickerViewDataSource,UIPickerViewDelegate>
 @property (strong, nonatomic) IBOutlet UIPickerView *nativeLanguagePicker;

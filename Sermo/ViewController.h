@@ -8,7 +8,6 @@
 
 #import <UIKit/UIKit.h>
 #import <Parse/Parse.h>
-#import "WelcomeViewController.h"
 
 @interface ViewController : UIViewController 
 @property (strong, nonatomic) IBOutlet UILabel *SermoTitle;
@@ -21,6 +20,8 @@
 @property (strong, nonatomic) IBOutlet UIButton *noEmail;
 @property (strong, nonatomic) IBOutlet UIButton *noFirstPW;
 @property (strong, nonatomic) IBOutlet UIButton *noSecondPW;
+
+@property (nonatomic) NSString *languagePicked;
 
 
 @end
