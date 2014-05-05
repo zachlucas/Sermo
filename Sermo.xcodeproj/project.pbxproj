@@ -36,6 +36,8 @@
 		98139FAF1914132900A03E15 /* x-mark-256.png in Resources */ = {isa = PBXBuildFile; fileRef = 98139FAE1914132900A03E15 /* x-mark-256.png */; };
 		982F8325191441DF004B7569 /* WhoDoYouWantToTalkToViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 982F8324191441DF004B7569 /* WhoDoYouWantToTalkToViewController.m */; };
 		9852B11619141FE400129D64 /* WelcomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9852B11519141FE400129D64 /* WelcomeViewController.m */; };
+		98FF68001917FE3C00244F26 /* LogInViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 98FF67FF1917FE3C00244F26 /* LogInViewController.m */; };
+		98FF680219180B5600244F26 /* goback.png in Resources */ = {isa = PBXBuildFile; fileRef = 98FF680119180B5600244F26 /* goback.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -85,6 +87,9 @@
 		982F8324191441DF004B7569 /* WhoDoYouWantToTalkToViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WhoDoYouWantToTalkToViewController.m; sourceTree = "<group>"; };
 		9852B11419141FE400129D64 /* WelcomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WelcomeViewController.h; sourceTree = "<group>"; };
 		9852B11519141FE400129D64 /* WelcomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WelcomeViewController.m; sourceTree = "<group>"; };
+		98FF67FE1917FE3C00244F26 /* LogInViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LogInViewController.h; sourceTree = "<group>"; };
+		98FF67FF1917FE3C00244F26 /* LogInViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LogInViewController.m; sourceTree = "<group>"; };
+		98FF680119180B5600244F26 /* goback.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = goback.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -176,6 +181,8 @@
 				9852B11519141FE400129D64 /* WelcomeViewController.m */,
 				982F8323191441DF004B7569 /* WhoDoYouWantToTalkToViewController.h */,
 				982F8324191441DF004B7569 /* WhoDoYouWantToTalkToViewController.m */,
+				98FF67FE1917FE3C00244F26 /* LogInViewController.h */,
+				98FF67FF1917FE3C00244F26 /* LogInViewController.m */,
 			);
 			path = Sermo;
 			sourceTree = "<group>";
@@ -213,6 +220,7 @@
 		98139FAD1914131800A03E15 /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				98FF680119180B5600244F26 /* goback.png */,
 				38B646BC1917257700D04D61 /* check-mark-256.png */,
 				98139FAE1914132900A03E15 /* x-mark-256.png */,
 			);
@@ -295,6 +303,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				98FF680219180B5600244F26 /* goback.png in Resources */,
 				98139F781913F7C000A03E15 /* Main_iPad.storyboard in Resources */,
 				98139FAF1914132900A03E15 /* x-mark-256.png in Resources */,
 				98139F7D1913F7C000A03E15 /* Images.xcassets in Resources */,
@@ -321,6 +330,7 @@
 			files = (
 				98139F7B1913F7C000A03E15 /* ViewController.m in Sources */,
 				9852B11619141FE400129D64 /* WelcomeViewController.m in Sources */,
+				98FF68001917FE3C00244F26 /* LogInViewController.m in Sources */,
 				982F8325191441DF004B7569 /* WhoDoYouWantToTalkToViewController.m in Sources */,
 				98139F721913F7C000A03E15 /* AppDelegate.m in Sources */,
 				98139F6E1913F7C000A03E15 /* main.m in Sources */,

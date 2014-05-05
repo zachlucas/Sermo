@@ -44,6 +44,10 @@
 -(UIStatusBarStyle)preferredStatusBarStyle{
     return UIStatusBarStyleLightContent;
 }
+- (IBAction)logOut:(id)sender {
+    [PFUser logOut];
+    [self performSegueWithIdentifier:@"backToHomeSegue" sender:self];
+}
 
 /*
 #pragma mark - Navigation

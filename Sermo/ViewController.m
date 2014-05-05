@@ -53,6 +53,9 @@ NSString* password = @"";
      }
                      completion:nil];
 }
+- (IBAction)goBackToHome:(id)sender {
+    [self performSegueWithIdentifier:@"goBackToHomeSegue" sender:self];
+}
 
 -(UIStatusBarStyle)preferredStatusBarStyle{
     return UIStatusBarStyleLightContent;
