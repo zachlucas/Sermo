@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		38B646BD1917257700D04D61 /* check-mark-256.png in Resources */ = {isa = PBXBuildFile; fileRef = 38B646BC1917257700D04D61 /* check-mark-256.png */; };
 		98139F621913F7C000A03E15 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 98139F611913F7C000A03E15 /* Foundation.framework */; };
 		98139F641913F7C000A03E15 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 98139F631913F7C000A03E15 /* CoreGraphics.framework */; };
 		98139F661913F7C000A03E15 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 98139F651913F7C000A03E15 /* UIKit.framework */; };
@@ -48,6 +49,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		38B646BC1917257700D04D61 /* check-mark-256.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "check-mark-256.png"; sourceTree = "<group>"; };
 		98139F5E1913F7C000A03E15 /* Sermo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sermo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		98139F611913F7C000A03E15 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		98139F631913F7C000A03E15 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -211,6 +213,7 @@
 		98139FAD1914131800A03E15 /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				38B646BC1917257700D04D61 /* check-mark-256.png */,
 				98139FAE1914132900A03E15 /* x-mark-256.png */,
 			);
 			name = Images;
@@ -295,6 +298,7 @@
 				98139F781913F7C000A03E15 /* Main_iPad.storyboard in Resources */,
 				98139FAF1914132900A03E15 /* x-mark-256.png in Resources */,
 				98139F7D1913F7C000A03E15 /* Images.xcassets in Resources */,
+				38B646BD1917257700D04D61 /* check-mark-256.png in Resources */,
 				98139F751913F7C000A03E15 /* Main_iPhone.storyboard in Resources */,
 				98139F6C1913F7C000A03E15 /* InfoPlist.strings in Resources */,
 			);
@@ -462,6 +466,7 @@
 				GCC_PREFIX_HEADER = "Sermo/Sermo-Prefix.pch";
 				INFOPLIST_FILE = "Sermo/Sermo-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -479,6 +484,7 @@
 				GCC_PREFIX_HEADER = "Sermo/Sermo-Prefix.pch";
 				INFOPLIST_FILE = "Sermo/Sermo-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;

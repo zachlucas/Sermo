@@ -25,11 +25,14 @@
 
 - (void)viewDidLoad
 {
+    
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     //Language picker
     self.languageArray  = [[NSArray alloc]         initWithObjects:@"English",@"Spanish",@"German",@"French",@"Portuguese",@"Italian" , nil];
 
+    
+    [_nativeLanguagePicker selectRow:3 inComponent:0 animated:NO];
     // white status bar
     [self setNeedsStatusBarAppearanceUpdate];
     
@@ -37,6 +40,7 @@
     _HiLabel.center = CGPointMake(150, -250);
     _nativeLanguagePicker.center = CGPointMake(150, 650);
     _ContinueButton.center = CGPointMake(150, 650);
+    _logInButton.center = CGPointMake(150, 650);
     _SermoTitle.layer.opacity = 0.1;
     
     [UIView animateWithDuration:2.0f
@@ -49,9 +53,22 @@
          _HiLabel.center = CGPointMake(300, 300);
          _nativeLanguagePicker.center = CGPointMake(300, 300);
          _ContinueButton.center = CGPointMake(300, 300);
+         _logInButton.center = CGPointMake(300, 300);
 
      }
                      completion:nil];
+}
+
+-(void)viewDidAppear:(BOOL)animated{
+    PFUser *currentUser = [PFUser currentUser];
+    NSLog(@"%@",currentUser.email);
+    NSLog(@"cur^^");
+        if (currentUser) {
+            // do stuff with the user
+           [self performSegueWithIdentifier:@"alreadyLoggedInSegue" sender:self];
+        } else {
+            // show the signup or login screen
+        }
 }
 
 - (void)didReceiveMemoryWarning

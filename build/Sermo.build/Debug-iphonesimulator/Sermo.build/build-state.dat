@@ -1,0 +1,1088 @@
+TSermo
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/h7/m5985s451mgf9_cflndjn1kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Sermo-Prefix-ezsisarmumvzofdlurgmcdbvfdta/Sermo-Prefix.pch.pch Sermo/Sermo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/ViewController.o /Users/gohome190/Documents/Code/Sermo/Sermo/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/WhoDoYouWantToTalkToViewController.o /Users/gohome190/Documents/Code/Sermo/Sermo/WhoDoYouWantToTalkToViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/WelcomeViewController.o /Users/gohome190/Documents/Code/Sermo/Sermo/WelcomeViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/AppDelegate.o /Users/gohome190/Documents/Code/Sermo/Sermo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/main.o /Users/gohome190/Documents/Code/Sermo/Sermo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app/Sermo normal i386
+cCompileStoryboard /Users/gohome190/Documents/Code/Sermo/Sermo/Base.lproj/Main_iPad.storyboard
+cCpResource Sermo/x-mark-256.png build/Debug-iphonesimulator/Sermo.app/x-mark-256.png
+cCompileStoryboard /Users/gohome190/Documents/Code/Sermo/Sermo/Base.lproj/Main_iPhone.storyboard
+cCopyStringsFile /Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app/en.lproj/InfoPlist.strings Sermo/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app /Users/gohome190/Documents/Code/Sermo/Sermo/Images.xcassets
+cProcessInfoPlistFile /Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app/Info.plist /Users/gohome190/Documents/Code/Sermo/Sermo/Sermo-Info.plist
+cGenerateDSYMFile /Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app.dSYM /Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app/Sermo
+cTouch /Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534CB7490000000000000198
+t1397536585
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c0000000053384D7400000000000003B4
+t1396198772
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053384D8A000000000000019E
+t1396198794
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c0000000053384D8F0000000000904120
+t1396198799
+s9453856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000053384D8F000000000058E0E0
+t1396198799
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c0000000053384D8E00000000000FB140
+t1396198798
+s1028416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000053384D8F00000000005B82F0
+t1396198799
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534CB67C0000000000446820
+t1397536380
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c0000000053384D9000000000003599D0
+t1396198800
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c0000000053384D8F00000000000F1A80
+t1396198799
+s989824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMIDI.framework/CoreMIDI
+c0000000053384D9000000000000CF090
+t1396198800
+s848016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c0000000053384D9100000000002FC3B0
+t1396198801
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000053384D91000000000004B000
+t1396198801
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053384D93000000000088D8C0
+t1396198803
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c0000000053384D9500000000001BE790
+t1396198805
+s1828752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c0000000053384D960000000000037680
+t1396198806
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000053384D97000000000048F720
+t1396198807
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000053384D97000000000013FD70
+t1396198807
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/StoreKit.framework/StoreKit
+c0000000053384D97000000000006E450
+t1396198807
+s451664
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c0000000053384D9800000000001081C0
+t1396198808
+s1081792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000053384D9E0000000001F1DE10
+t1396198814
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c0000000053384DC100000000002BC360
+t1396198849
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c0000000053384DD20000000000002338
+t1396198866
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c0000000053384DD4000000000008D370
+t1396198868
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c0000000053384DD40000000000392E20
+t1396198868
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libz.dylib
+c0000000053384DD5000000000002B700
+t1396198869
+s177920
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c000000005317404200000000000141F0
+t1394032706
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c0000000053384DD50000000000014A80
+t1396198869
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c0000000053384DD50000000000033BA0
+t1396198869
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c0000000053384DD5000000000001CFB0
+t1396198869
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c0000000053384DD5000000000001B2B0
+t1396198869
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c0000000053384DD500000000000C9570
+t1396198869
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c0000000053384DD50000000000063280
+t1396198869
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c0000000053384DD50000000000008880
+t1396198869
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c0000000053384DD50000000000015080
+t1396198869
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c0000000053384DD500000000000230F0
+t1396198869
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c0000000053384DD5000000000000E380
+t1396198869
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c0000000053384DD50000000000089380
+t1396198869
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c0000000053384DD50000000000017320
+t1396198869
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c0000000053384DD50000000000039CD0
+t1396198869
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c0000000053384DD5000000000000B0B0
+t1396198869
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c0000000053384DD60000000000167E80
+t1396198870
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c0000000053384DD500000000000106A0
+t1396198869
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c0000000053384DD5000000000001CE40
+t1396198869
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c0000000053384DD500000000000740C0
+t1396198869
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c0000000053384DD5000000000006CA60
+t1396198869
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c0000000053384DD5000000000001BAD0
+t1396198869
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c0000000053384DD50000000000084A20
+t1396198869
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000053384DE10000000000000ADC
+t1396198881
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c00000000534CB67D000000000000514C
+t1397536381
+s20812
+
+N/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFACL.h
+c000000005366772200000000000019F8
+t1399224098
+s6648
+
+N/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFAnalytics.h
+c00000000536677220000000000000ABC
+t1399224098
+s2748
+
+N/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFAnonymousUtils.h
+c0000000053667722000000000000094B
+t1399224098
+s2379
+
+N/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFCloud.h
+c00000000536677220000000000000847
+t1399224098
+s2119
+
+N/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFConstants.h
+c00000000536677220000000000001EE5
+t1399224098
+s7909
+
+N/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFFile.h
+c00000000536677220000000000001F8D
+t1399224098
+s8077
+
+N/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFGeoPoint.h
+c00000000536677220000000000000A3E
+t1399224098
+s2622
+
+N/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFImageView.h
+c00000000536677220000000000000366
+t1399224098
+s870
+
+N/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFInstallation.h
+c00000000536677220000000000000B43
+t1399224098
+s2883
+
+N/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFLogInView.h
+c00000000536677220000000000000B75
+t1399224098
+s2933
+
+N/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFLogInViewController.h
+c00000000536677220000000000000E55
+t1399224098
+s3669
+
+N/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFObject.h
+c0000000053667722000000000000545E
+t1399224098
+s21598
+
+N/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFProduct.h
+c0000000053667722000000000000068E
+t1399224098
+s1678
+
+N/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFProductTableViewController.h
+c0000000053667722000000000000023A
+t1399224098
+s570
+
+N/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFPurchase.h
+c00000000536677220000000000000A6A
+t1399224098
+s2666
+
+N/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFPush.h
+c00000000536677220000000000004591
+t1399224098
+s17809
+
+N/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFQuery.h
+c0000000053667722000000000000526A
+t1399224098
+s21098
+
+N/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFQueryTableViewController.h
+c0000000053667722000000000000153A
+t1399224098
+s5434
+
+N/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFRelation.h
+c000000005366772200000000000003A0
+t1399224098
+s928
+
+N/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFRole.h
+c00000000536677220000000000000AE4
+t1399224098
+s2788
+
+N/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFSignUpView.h
+c000000005366772200000000000008C6
+t1399224098
+s2246
+
+N/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFSignUpViewController.h
+c00000000536677220000000000000B96
+t1399224098
+s2966
+
+N/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFSubclassing.h
+c000000005366772200000000000007EE
+t1399224098
+s2030
+
+N/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFTableViewCell.h
+c00000000536677220000000000000299
+t1399224098
+s665
+
+N/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFTwitterUtils.h
+c00000000536677220000000000001FBC
+t1399224098
+s8124
+
+N/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFUser.h
+c00000000536677220000000000003354
+t1399224098
+s13140
+
+N/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PF_EGORefreshTableHeaderView.h
+c000000005366772200000000000008B0
+t1399224098
+s2224
+
+N/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PF_Twitter.h
+c000000005366772200000000000005E1
+t1399224098
+s1505
+
+N/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/Parse.h
+c0000000053667722000000000000081A
+t1399224098
+s2074
+
+N/Users/gohome190/Documents/Code/Sermo/Parse.framework/Parse
+c00000000536677230000000001D95EEC
+t1399224099
+s31022828
+
+N/Users/gohome190/Documents/Code/Sermo/Sermo/AppDelegate.h
+c00000000536677230000000000000110
+t1399224099
+s272
+
+N/Users/gohome190/Documents/Code/Sermo/Sermo/AppDelegate.m
+c000000005366772300000000000008BD
+t1399224099
+s2237
+
+N/Users/gohome190/Documents/Code/Sermo/Sermo/Base.lproj/Main_iPad.storyboard
+c00000000536677230000000000000713
+t1399224099
+s1811
+
+N/Users/gohome190/Documents/Code/Sermo/Sermo/Base.lproj/Main_iPhone.storyboard
+c000000005366EBA10000000000007337
+t1399253921
+s29495
+
+N/Users/gohome190/Documents/Code/Sermo/Sermo/Images.xcassets
+c00000000536677230000000000000088
+t1399224099
+s136
+
+N/Users/gohome190/Documents/Code/Sermo/Sermo/Sermo-Info.plist
+c000000005366772300000000000005FE
+t1399224099
+s1534
+
+N/Users/gohome190/Documents/Code/Sermo/Sermo/Sermo-Prefix.pch
+c00000000536677230000000000000158
+t1399224099
+s344
+
+N/Users/gohome190/Documents/Code/Sermo/Sermo/ViewController.h
+c00000000536677230000000000000382
+t1399224099
+s898
+
+N/Users/gohome190/Documents/Code/Sermo/Sermo/ViewController.m
+c00000000536677230000000000001EAC
+t1399224099
+s7852
+
+N/Users/gohome190/Documents/Code/Sermo/Sermo/WelcomeViewController.h
+c00000000536681290000000000000320
+t1399226665
+s800
+
+N/Users/gohome190/Documents/Code/Sermo/Sermo/WelcomeViewController.m
+c000000005366ED13000000000000157D
+t1399254291
+s5501
+
+N/Users/gohome190/Documents/Code/Sermo/Sermo/WhoDoYouWantToTalkToViewController.h
+c000000005366772300000000000001B4
+t1399224099
+s436
+
+N/Users/gohome190/Documents/Code/Sermo/Sermo/WhoDoYouWantToTalkToViewController.m
+c00000000536677230000000000000ECD
+t1399224099
+s3789
+
+N/Users/gohome190/Documents/Code/Sermo/Sermo/en.lproj/InfoPlist.strings
+c0000000053667723000000000000002D
+t1399224099
+s45
+
+N/Users/gohome190/Documents/Code/Sermo/Sermo/main.m
+c0000000053667723000000000000014C
+t1399224099
+s332
+
+N/Users/gohome190/Documents/Code/Sermo/Sermo/x-mark-256.png
+c000000005366772300000000000009DB
+t1399224099
+s2523
+
+N/Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app
+t1399254293
+s340
+
+N/Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app.dSYM
+t1399253981
+s102
+
+N/Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app/Base.lproj/Main_iPad.storyboardc
+t1399225782
+s170
+
+N/Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app/Base.lproj/Main_iPhone.storyboardc
+t1399253923
+s374
+
+N/Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app/Info.plist
+t1399244224
+s1230
+
+N/Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app/PkgInfo
+t1399244224
+s8
+
+N/Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app/Sermo
+t1399254293
+s2349304
+
+N/Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app/en.lproj/InfoPlist.strings
+t1399225783
+s42
+
+N/Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app/x-mark-256.png
+t1399225769
+s2523
+
+N/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/AppDelegate.o
+t1399225766
+s63400
+
+N/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/Sermo.LinkFileList
+c0000000053667DA00000000000000289
+t1399225760
+s649
+
+N/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/ViewController.o
+t1399225766
+s79856
+
+N/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/WelcomeViewController.o
+t1399254293
+s79212
+
+N/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/WhoDoYouWantToTalkToViewController.o
+t1399225766
+s55424
+
+N/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/main.o
+t1399225766
+s3528
+
+N/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/assetcatalog_dependencies.txt
+t1399244224
+s331
+
+N/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/assetcatalog_generated_info.plist
+t1399244224
+s525
+
+N/usr/lib/libSystem.B.dylib
+c000000005269C204000000000000E6D0
+t1382662660
+s59088
+
+N/usr/lib/system/libcache.dylib
+c000000005269C2230000000000012A00
+t1382662691
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c000000005269C1E4000000000002E320
+t1382662628
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c000000005269C2040000000000021860
+t1382662660
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c000000005269C221000000000001B620
+t1382662689
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005269C22100000000000BD920
+t1382662689
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c000000005317404200000000000141F0
+t1394032706
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c000000005269C223000000000000A120
+t1382662691
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c0000000053174042000000000001D550
+t1394032706
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c000000005269C2210000000000014EE0
+t1382662689
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c000000005269C2270000000000010380
+t1382662695
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c000000005269C227000000000000C4C0
+t1382662695
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005269C22300000000000357A0
+t1382662691
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c000000005269C223000000000000C070
+t1382662691
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000530299D10000000000168D00
+t1392679377
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c00000000531740420000000000010630
+t1394032706
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000053174042000000000001DF10
+t1394032706
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c000000005269C2040000000000075B00
+t1382662660
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000053573269000000000007CC70
+t1398223465
+s511088
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005269C20400000000000766C0
+t1382662660
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c00000000530299D00000000000044DC0
+t1392679376
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c000000005269C2040000000000021FA0
+t1382662660
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c0000000053174042000000000002D920
+t1394032706
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c000000005269C224000000000001E570
+t1382662692
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000053174042000000000000CC70
+t1394032706
+s52336
+
+N/usr/lib/system/libunc.dylib
+c000000005269C218000000000000C3F0
+t1382662680
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005269C22400000000000199F0
+t1382662692
+s104944
+
+N/var/folders/h7/m5985s451mgf9_cflndjn1kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Sermo-Prefix-ezsisarmumvzofdlurgmcdbvfdta/Sermo-Prefix.pch.pch
+t1399225765
+s115700
+
+CBuild AST from /Users/gohome190/Documents/Code/Sermo/Sermo/AppDelegate.m
+r0
+
+CBuild AST from /Users/gohome190/Documents/Code/Sermo/Sermo/ViewController.m
+r0
+
+CBuild AST from /Users/gohome190/Documents/Code/Sermo/Sermo/WelcomeViewController.m
+r0
+
+CBuild AST from /Users/gohome190/Documents/Code/Sermo/Sermo/WhoDoYouWantToTalkToViewController.m
+r0
+
+CBuild AST from /Users/gohome190/Documents/Code/Sermo/Sermo/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies9a3f8a952417b941^fcfd8a952417b941^---0#1#1#--18"Check dependencies36"553AA8B1-1F38-4BAD-B829-976C933F688A-
+
+CCompileAssetCatalog /Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app /Users/gohome190/Documents/Code/Sermo/Sermo/Images.xcassets
+s420937004.768974
+e420937024.861069
+r1
+xCompileAssetCatalog
+x/Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app
+x/Users/gohome190/Documents/Code/Sermo/Sermo/Images.xcassets
+o2014-05-04 18:57:04.317 IBCocoaTouchImageCatalogTool[2312:303] CFPreferences: user home directory at file:///Users/gohome190/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.compilation-results */
+o/Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app/LaunchImage-700-568h@2x.png
+o/Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app/Assets.car
+o/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"CompileAssetCatalog build/Debug-iphonesimulator/Sermo.app Sermo/Images.xcassets79"CompileAssetCatalog build/Debug-iphonesimulator/Sermo.app Sermo/Images.xcassets90f9c42cfd16b941^7a6fdc40fd16b941^-586"2014-05-04 18:57:04.317 IBCocoaTouchImageCatalogTool[2312:303] CFPreferences: user home directory at file:///Users/gohome190/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app/LaunchImage-700-568h@2x.png/Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app/Assets.car/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@67"file:///Users/gohome190/Documents/Code/Sermo/Sermo/Images.xcassets/0000000000000000^1071"CompileAssetCatalog build/Debug-iphonesimulator/Sermo.app Sermo/Images.xcassets    cd /Users/gohome190/Documents/Code/Sermo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app /Users/gohome190/Documents/Code/Sermo/Sermo/Images.xcassets36"FD67B9F6-3276-4E6F-B1E6-C37EF845DE18-
+b4815A027-6CEA-4F54-98BC-34548023EB78
+
+CCompileC build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/AppDelegate.o /Users/gohome190/Documents/Code/Sermo/Sermo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420918566.125804
+e420918566.253181
+r1
+xCompileC
+xbuild/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/AppDelegate.o
+x/Users/gohome190/Documents/Code/Sermo/Sermo/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/gohome190/Documents/Code/Sermo/Sermo/AppDelegate.m
+d/Users/gohome190/Documents/Code/Sermo/Sermo/AppDelegate.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/Parse.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFACL.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFAnalytics.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFAnonymousUtils.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFUser.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFConstants.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFObject.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFSubclassing.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFCloud.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFFile.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFGeoPoint.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFQuery.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFRelation.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFRole.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFImageView.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFInstallation.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFLogInViewController.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFLogInView.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFSignUpViewController.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFSignUpView.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFProduct.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFProductTableViewController.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFQueryTableViewController.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFTableViewCell.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PF_EGORefreshTableHeaderView.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFPurchase.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFPush.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFTwitterUtils.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PF_Twitter.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/gohome190/Documents/Code/Sermo/Sermo/AppDelegate.m182"CompileC build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/AppDelegate.o Sermo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerdb512026b516b941^0bd24026b516b941^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/gohome190/Documents/Code/Sermo/Sermo/AppDelegate.m0000000000000000^3508"CompileC build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/AppDelegate.o Sermo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/gohome190/Documents/Code/Sermo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/gohome190/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Sermo-generated-files.hmap -I/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Sermo-own-target-headers.hmap -I/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Sermo-all-target-headers.hmap -iquote /Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Sermo-project-headers.hmap -I/Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/DerivedSources/i386 -I/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/DerivedSources -F/Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator -F/Users/gohome190/Documents/Code/Sermo -include /var/folders/h7/m5985s451mgf9_cflndjn1kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Sermo-Prefix-ezsisarmumvzofdlurgmcdbvfdta/Sermo-Prefix.pch -MMD -MT dependencies -MF /Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/AppDelegate.dia -c /Users/gohome190/Documents/Code/Sermo/Sermo/AppDelegate.m -o /Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/AppDelegate.o36"8B46C954-F892-40BA-ABD1-BBDD02902B04-
+bC32C0E38-E896-413C-A42D-2DD2F6FFBC64
+
+CCompileC build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/ViewController.o /Users/gohome190/Documents/Code/Sermo/Sermo/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420918565.026857
+e420918566.033819
+r1
+xCompileC
+xbuild/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/ViewController.o
+x/Users/gohome190/Documents/Code/Sermo/Sermo/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/gohome190/Documents/Code/Sermo/Sermo/ViewController.m
+d/Users/gohome190/Documents/Code/Sermo/Sermo/ViewController.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/Parse.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFACL.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFAnalytics.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFAnonymousUtils.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFUser.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFConstants.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFObject.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFSubclassing.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFCloud.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFFile.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFGeoPoint.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFQuery.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFRelation.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFRole.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFImageView.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFInstallation.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFLogInViewController.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFLogInView.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFSignUpViewController.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFSignUpView.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFProduct.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFProductTableViewController.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFQueryTableViewController.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFTableViewCell.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PF_EGORefreshTableHeaderView.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFPurchase.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFPush.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFTwitterUtils.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PF_Twitter.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/gohome190/Documents/Code/Sermo/Sermo/ViewController.m188"CompileC build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/ViewController.o Sermo/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler560c0725b516b941^1ea70826b516b941^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/gohome190/Documents/Code/Sermo/Sermo/ViewController.m0000000000000000^3526"CompileC build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/ViewController.o Sermo/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/gohome190/Documents/Code/Sermo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/gohome190/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Sermo-generated-files.hmap -I/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Sermo-own-target-headers.hmap -I/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Sermo-all-target-headers.hmap -iquote /Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Sermo-project-headers.hmap -I/Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/DerivedSources/i386 -I/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/DerivedSources -F/Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator -F/Users/gohome190/Documents/Code/Sermo -include /var/folders/h7/m5985s451mgf9_cflndjn1kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Sermo-Prefix-ezsisarmumvzofdlurgmcdbvfdta/Sermo-Prefix.pch -MMD -MT dependencies -MF /Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/ViewController.dia -c /Users/gohome190/Documents/Code/Sermo/Sermo/ViewController.m -o /Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/ViewController.o36"D8B2E600-59AC-45C9-A26F-1CAC1994A386-
+bC32C0E38-E896-413C-A42D-2DD2F6FFBC64
+
+CCompileC build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/WelcomeViewController.o /Users/gohome190/Documents/Code/Sermo/Sermo/WelcomeViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420947093.546184
+e420947093.746510
+r1
+xCompileC
+xbuild/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/WelcomeViewController.o
+x/Users/gohome190/Documents/Code/Sermo/Sermo/WelcomeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/gohome190/Documents/Code/Sermo/Sermo/WelcomeViewController.m
+d/Users/gohome190/Documents/Code/Sermo/Sermo/WelcomeViewController.h
+d/Users/gohome190/Documents/Code/Sermo/Sermo/ViewController.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/Parse.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFACL.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFAnalytics.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFAnonymousUtils.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFUser.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFConstants.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFObject.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFSubclassing.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFCloud.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFFile.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFGeoPoint.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFQuery.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFRelation.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFRole.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFImageView.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFInstallation.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFLogInViewController.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFLogInView.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFSignUpViewController.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFSignUpView.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFProduct.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFProductTableViewController.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFQueryTableViewController.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFTableViewCell.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PF_EGORefreshTableHeaderView.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFPurchase.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFPush.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFTwitterUtils.h
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PF_Twitter.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/gohome190/Documents/Code/Sermo/Sermo/WelcomeViewController.m202"CompileC build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/WelcomeViewController.o Sermo/WelcomeViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler310c8c952417b941^ff1fbf952417b941^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/gohome190/Documents/Code/Sermo/Sermo/WelcomeViewController.m0000000000000000^3568"CompileC build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/WelcomeViewController.o Sermo/WelcomeViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/gohome190/Documents/Code/Sermo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/gohome190/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Sermo-generated-files.hmap -I/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Sermo-own-target-headers.hmap -I/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Sermo-all-target-headers.hmap -iquote /Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Sermo-project-headers.hmap -I/Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/DerivedSources/i386 -I/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/DerivedSources -F/Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator -F/Users/gohome190/Documents/Code/Sermo -include /var/folders/h7/m5985s451mgf9_cflndjn1kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Sermo-Prefix-ezsisarmumvzofdlurgmcdbvfdta/Sermo-Prefix.pch -MMD -MT dependencies -MF /Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/WelcomeViewController.d --serialize-diagnostics /Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/WelcomeViewController.dia -c /Users/gohome190/Documents/Code/Sermo/Sermo/WelcomeViewController.m -o /Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/WelcomeViewController.o36"AEB5DE34-8B46-4908-9A07-0568ADD1D3AE-
+b795C04AC-4E8C-4E67-B129-BC6B6F772F9C
+
+CCompileC build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/WhoDoYouWantToTalkToViewController.o /Users/gohome190/Documents/Code/Sermo/Sermo/WhoDoYouWantToTalkToViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420918566.034775
+e420918566.143889
+r1
+xCompileC
+xbuild/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/WhoDoYouWantToTalkToViewController.o
+x/Users/gohome190/Documents/Code/Sermo/Sermo/WhoDoYouWantToTalkToViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/gohome190/Documents/Code/Sermo/Sermo/WhoDoYouWantToTalkToViewController.m
+d/Users/gohome190/Documents/Code/Sermo/Sermo/WhoDoYouWantToTalkToViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/gohome190/Documents/Code/Sermo/Sermo/WhoDoYouWantToTalkToViewController.m228"CompileC build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/WhoDoYouWantToTalkToViewController.o Sermo/WhoDoYouWantToTalkToViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere6080926b516b941^4d102526b516b941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/gohome190/Documents/Code/Sermo/Sermo/WhoDoYouWantToTalkToViewController.m0000000000000000^3646"CompileC build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/WhoDoYouWantToTalkToViewController.o Sermo/WhoDoYouWantToTalkToViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/gohome190/Documents/Code/Sermo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/gohome190/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Sermo-generated-files.hmap -I/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Sermo-own-target-headers.hmap -I/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Sermo-all-target-headers.hmap -iquote /Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Sermo-project-headers.hmap -I/Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/DerivedSources/i386 -I/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/DerivedSources -F/Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator -F/Users/gohome190/Documents/Code/Sermo -include /var/folders/h7/m5985s451mgf9_cflndjn1kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Sermo-Prefix-ezsisarmumvzofdlurgmcdbvfdta/Sermo-Prefix.pch -MMD -MT dependencies -MF /Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/WhoDoYouWantToTalkToViewController.d --serialize-diagnostics /Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/WhoDoYouWantToTalkToViewController.dia -c /Users/gohome190/Documents/Code/Sermo/Sermo/WhoDoYouWantToTalkToViewController.m -o /Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/WhoDoYouWantToTalkToViewController.o36"0B2479AF-9B08-409E-BE49-5649C41E8351-
+bC32C0E38-E896-413C-A42D-2DD2F6FFBC64
+
+CCompileC build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/main.o /Users/gohome190/Documents/Code/Sermo/Sermo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420918566.144226
+e420918566.193712
+r1
+xCompileC
+xbuild/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/main.o
+x/Users/gohome190/Documents/Code/Sermo/Sermo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/gohome190/Documents/Code/Sermo/Sermo/main.m
+d/Users/gohome190/Documents/Code/Sermo/Sermo/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/gohome190/Documents/Code/Sermo/Sermo/main.m168"CompileC build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/main.o Sermo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc8072526b516b941^81973126b516b941^---0#0#1#-19%DVTDocumentLocation2@57"file:///Users/gohome190/Documents/Code/Sermo/Sermo/main.m0000000000000000^3466"CompileC build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/main.o Sermo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/gohome190/Documents/Code/Sermo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/gohome190/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Sermo-generated-files.hmap -I/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Sermo-own-target-headers.hmap -I/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Sermo-all-target-headers.hmap -iquote /Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Sermo-project-headers.hmap -I/Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/DerivedSources/i386 -I/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/DerivedSources -F/Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator -F/Users/gohome190/Documents/Code/Sermo -include /var/folders/h7/m5985s451mgf9_cflndjn1kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Sermo-Prefix-ezsisarmumvzofdlurgmcdbvfdta/Sermo-Prefix.pch -MMD -MT dependencies -MF /Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/main.dia -c /Users/gohome190/Documents/Code/Sermo/Sermo/main.m -o /Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/main.o36"05C55277-A5FB-44E4-8A8A-B36FDF5A58A4-
+bC32C0E38-E896-413C-A42D-2DD2F6FFBC64
+
+CCompileStoryboard /Users/gohome190/Documents/Code/Sermo/Sermo/Base.lproj/Main_iPad.storyboard
+s420918569.573344
+e420918583.210559
+r1
+xCompileStoryboard
+x/Users/gohome190/Documents/Code/Sermo/Sermo/Base.lproj/Main_iPad.storyboard
+o2014-05-04 13:49:42.398 Interface Builder Cocoa Touch Tool[1368:303] CFPreferences: user home directory at file:///Users/gohome190/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"CompileStoryboard Sermo/Base.lproj/Main_iPad.storyboard55"CompileStoryboard Sermo/Base.lproj/Main_iPad.storyboard26e59229b516b941^83e03537b516b941^-233"2014-05-04 13:49:42.398 Interface Builder Cocoa Touch Tool[1368:303] CFPreferences: user home directory at file:///Users/gohome190/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@82"file:///Users/gohome190/Documents/Code/Sermo/Sermo/Base.lproj/Main_iPad.storyboard0000000000000000^836"CompileStoryboard Sermo/Base.lproj/Main_iPad.storyboard    cd /Users/gohome190/Documents/Code/Sermo    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app/Base.lproj/Main_iPad.storyboardc /Users/gohome190/Documents/Code/Sermo/Sermo/Base.lproj/Main_iPad.storyboard36"AA673855-5469-4289-ABB9-4E7D6CFB07F3-
+bC32C0E38-E896-413C-A42D-2DD2F6FFBC64
+
+CCompileStoryboard /Users/gohome190/Documents/Code/Sermo/Sermo/Base.lproj/Main_iPhone.storyboard
+s420946721.852311
+e420946723.952720
+r1
+xCompileStoryboard
+x/Users/gohome190/Documents/Code/Sermo/Sermo/Base.lproj/Main_iPhone.storyboard
+o2014-05-04 21:38:43.187 Interface Builder Cocoa Touch Tool[2569:303] CFPreferences: user home directory at file:///Users/gohome190/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"CompileStoryboard Sermo/Base.lproj/Main_iPhone.storyboard57"CompileStoryboard Sermo/Base.lproj/Main_iPhone.storyboard7843da212317b941^dae5f3232317b941^-233"2014-05-04 21:38:43.187 Interface Builder Cocoa Touch Tool[2569:303] CFPreferences: user home directory at file:///Users/gohome190/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@84"file:///Users/gohome190/Documents/Code/Sermo/Sermo/Base.lproj/Main_iPhone.storyboard0000000000000000^842"CompileStoryboard Sermo/Base.lproj/Main_iPhone.storyboard    cd /Users/gohome190/Documents/Code/Sermo    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app/Base.lproj/Main_iPhone.storyboardc /Users/gohome190/Documents/Code/Sermo/Sermo/Base.lproj/Main_iPhone.storyboard36"F576C7F9-7986-4064-890C-BDF4C2CF3490-
+b9C7E74E7-1923-4A73-A2F6-3C97D8CD4629
+
+CCopyStringsFile /Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app/en.lproj/InfoPlist.strings Sermo/en.lproj/InfoPlist.strings
+s420918583.210805
+e420918583.261530
+r1
+xCopyStringsFile
+x/Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app/en.lproj/InfoPlist.strings
+xSermo/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy Sermo/en.lproj/InfoPlist.strings113"CopyStringsFile build/Debug-iphonesimulator/Sermo.app/en.lproj/InfoPlist.strings Sermo/en.lproj/InfoPlist.strings7c0c3637b516b941^08584337b516b941^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/gohome190/Documents/Code/Sermo/Sermo/en.lproj/InfoPlist.strings0000000000000000^565"CopyStringsFile build/Debug-iphonesimulator/Sermo.app/en.lproj/InfoPlist.strings Sermo/en.lproj/InfoPlist.strings    cd /Users/gohome190/Documents/Code/Sermo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app/en.lproj -- Sermo/en.lproj/InfoPlist.strings36"485DFBB7-D3DB-49F8-B496-030C4E289E76-
+bC32C0E38-E896-413C-A42D-2DD2F6FFBC64
+
+CCpResource Sermo/x-mark-256.png build/Debug-iphonesimulator/Sermo.app/x-mark-256.png
+s420918569.574167
+e420918569.691181
+r1
+xCpResource
+xSermo/x-mark-256.png
+xbuild/Debug-iphonesimulator/Sermo.app/x-mark-256.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/Debug-iphonesimulator/Sermo.app/x-mark-256.png84"CpResource Sermo/x-mark-256.png build/Debug-iphonesimulator/Sermo.app/x-mark-256.pngd6199329b516b941^b7f0b029b516b941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app/x-mark-256.png00344ca0deffdf42^572"CpResource Sermo/x-mark-256.png build/Debug-iphonesimulator/Sermo.app/x-mark-256.png    cd /Users/gohome190/Documents/Code/Sermo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/gohome190/Documents/Code/Sermo/Sermo/x-mark-256.png /Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app36"D81F9ADB-F395-4C93-99A5-901C2073718A-
+bC32C0E38-E896-413C-A42D-2DD2F6FFBC64
+
+CGenerateDSYMFile /Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app.dSYM /Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app/Sermo
+s420947093.891235
+e420947094.090064
+r1
+xGenerateDSYMFile
+x/Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app.dSYM
+x/Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app/Sermo
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Generate /Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app.dSYM103"GenerateDSYMFile build/Debug-iphonesimulator/Sermo.app.dSYM build/Debug-iphonesimulator/Sermo.app/Sermo7237e4952417b941^cb1017962417b941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app.dSYM/0000000000000000^610"GenerateDSYMFile build/Debug-iphonesimulator/Sermo.app.dSYM build/Debug-iphonesimulator/Sermo.app/Sermo    cd /Users/gohome190/Documents/Code/Sermo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app/Sermo -o /Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app.dSYM36"6984F576-2F52-45EA-A975-5E963AF63F9C-
+b795C04AC-4E8C-4E67-B129-BC6B6F772F9C
+
+CLd /Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app/Sermo normal i386
+s420947093.750213
+e420947093.888843
+r1
+xLd
+x/Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app/Sermo
+xnormal
+xi386
+d/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/Sermo.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/ViewController.o
+d/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/WelcomeViewController.o
+d/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/WhoDoYouWantToTalkToViewController.o
+d/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/AppDelegate.o
+d/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/StoreKit.framework/StoreKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libz.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Users/gohome190/Documents/Code/Sermo/Parse.framework/Parse
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMIDI.framework/CoreMIDI
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Link /Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app/Sermo58"Ld build/Debug-iphonesimulator/Sermo.app/Sermo normal i3865726c0952417b941^118ce3952417b941^---0#0#1#--1552"Ld build/Debug-iphonesimulator/Sermo.app/Sermo normal i386    cd /Users/gohome190/Documents/Code/Sermo    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator -F/Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator -F/Users/gohome190/Documents/Code/Sermo -filelist /Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/Sermo.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework MobileCoreServices -framework QuartzCore -framework Security -framework StoreKit -framework SystemConfiguration -lz -framework CoreLocation -framework CoreGraphics -framework CFNetwork -framework AudioToolbox -framework UIKit -framework Parse -framework Foundation -Xlinker -dependency_info -Xlinker /Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Objects-normal/i386/Sermo_dependency_info.dat -o /Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app/Sermo36"81BE28B4-8B07-4477-AE37-F5EB1879E368-
+b795C04AC-4E8C-4E67-B129-BC6B6F772F9C
+
+CProcessInfoPlistFile /Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app/Info.plist /Users/gohome190/Documents/Code/Sermo/Sermo/Sermo-Info.plist
+s420937024.861837
+e420937024.864952
+r1
+xProcessInfoPlistFile
+x/Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app/Info.plist
+x/Users/gohome190/Documents/Code/Sermo/Sermo/Sermo-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Process /Users/gohome190/Documents/Code/Sermo/Sermo/Sermo-Info.plist92"ProcessInfoPlistFile build/Debug-iphonesimulator/Sermo.app/Info.plist Sermo/Sermo-Info.plist4eb3dc40fd16b941^d6ffdd40fd16b941^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/gohome190/Documents/Code/Sermo/Sermo/Sermo-Info.plist0000000000000000^818"ProcessInfoPlistFile build/Debug-iphonesimulator/Sermo.app/Info.plist Sermo/Sermo-Info.plist    cd /Users/gohome190/Documents/Code/Sermo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/gohome190/Documents/Code/Sermo/Sermo/Sermo-Info.plist -genpkginfo /Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/assetcatalog_generated_info.plist -o /Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app/Info.plist36"B04BB0AE-2C4E-44F8-8BC9-82BA601248BA-
+b4815A027-6CEA-4F54-98BC-34548023EB78
+
+CProcessPCH /Users/gohome190/Library/Developer/Xcode/DerivedData/Sermo-bwmwvqglsgftffcsvpwrbdieznry/Index/PrecompiledHeaders/Sermo-Prefix-akvdgushaajknicvhbowzwfmlgnb_ast/Sermo-Prefix.pch.pch Sermo/Sermo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/h7/m5985s451mgf9_cflndjn1kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Sermo-Prefix-ezsisarmumvzofdlurgmcdbvfdta/Sermo-Prefix.pch.pch Sermo/Sermo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420918560.798775
+e420918565.025023
+r1
+xProcessPCH
+x/var/folders/h7/m5985s451mgf9_cflndjn1kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Sermo-Prefix-ezsisarmumvzofdlurgmcdbvfdta/Sermo-Prefix.pch.pch
+xSermo/Sermo-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/gohome190/Documents/Code/Sermo/Sermo/Sermo-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile Sermo/Sermo-Prefix.pch282"ProcessPCH /var/folders/h7/m5985s451mgf9_cflndjn1kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Sermo-Prefix-ezsisarmumvzofdlurgmcdbvfdta/Sermo-Prefix.pch.pch Sermo/Sermo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9fcacd20b516b941^a5670625b516b941^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/gohome190/Documents/Code/Sermo/Sermo/Sermo-Prefix.pch0000000000000000^3599"ProcessPCH /var/folders/h7/m5985s451mgf9_cflndjn1kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Sermo-Prefix-ezsisarmumvzofdlurgmcdbvfdta/Sermo-Prefix.pch.pch Sermo/Sermo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/gohome190/Documents/Code/Sermo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/gohome190/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Sermo-generated-files.hmap -I/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Sermo-own-target-headers.hmap -I/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Sermo-all-target-headers.hmap -iquote /Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/Sermo-project-headers.hmap -I/Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/DerivedSources/i386 -I/Users/gohome190/Documents/Code/Sermo/build/Sermo.build/Debug-iphonesimulator/Sermo.build/DerivedSources -F/Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator -F/Users/gohome190/Documents/Code/Sermo --serialize-diagnostics /var/folders/h7/m5985s451mgf9_cflndjn1kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Sermo-Prefix-ezsisarmumvzofdlurgmcdbvfdta/Sermo-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/h7/m5985s451mgf9_cflndjn1kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Sermo-Prefix-ezsisarmumvzofdlurgmcdbvfdta/Sermo-Prefix.pch.d -c /Users/gohome190/Documents/Code/Sermo/Sermo/Sermo-Prefix.pch -o /var/folders/h7/m5985s451mgf9_cflndjn1kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Sermo-Prefix-ezsisarmumvzofdlurgmcdbvfdta/Sermo-Prefix.pch.pch36"0D9A0831-E0CE-48A7-A42C-832525C484C1-
+bC32C0E38-E896-413C-A42D-2DD2F6FFBC64
+
+CTouch /Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app
+s420946724.114932
+e420946724.121721
+r1
+xTouch
+x/Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Touch /Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app43"Touch build/Debug-iphonesimulator/Sermo.appf67c1d242317b941^1f2c1f242317b941^---0#0#1#--382"Touch build/Debug-iphonesimulator/Sermo.app    cd /Users/gohome190/Documents/Code/Sermo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/gohome190/Documents/Code/Sermo/build/Debug-iphonesimulator/Sermo.app36"9550A800-9B25-4635-B04E-A5B7F7D8D6EB-
+b9C7E74E7-1923-4A73-A2F6-3C97D8CD4629
+

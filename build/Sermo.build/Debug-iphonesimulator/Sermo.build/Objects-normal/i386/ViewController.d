@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/gohome190/Documents/Code/Sermo/Sermo/ViewController.m \
+  /Users/gohome190/Documents/Code/Sermo/Sermo/ViewController.h \
+  /Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/Parse.h \
+  /Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFACL.h \
+  /Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFAnalytics.h \
+  /Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFAnonymousUtils.h \
+  /Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFUser.h \
+  /Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFConstants.h \
+  /Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFObject.h \
+  /Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFSubclassing.h \
+  /Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFCloud.h \
+  /Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFFile.h \
+  /Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFGeoPoint.h \
+  /Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFQuery.h \
+  /Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFRelation.h \
+  /Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFRole.h \
+  /Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFImageView.h \
+  /Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFInstallation.h \
+  /Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFLogInViewController.h \
+  /Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFLogInView.h \
+  /Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFSignUpViewController.h \
+  /Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFSignUpView.h \
+  /Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFProduct.h \
+  /Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFProductTableViewController.h \
+  /Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFQueryTableViewController.h \
+  /Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFTableViewCell.h \
+  /Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PF_EGORefreshTableHeaderView.h \
+  /Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFPurchase.h \
+  /Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFPush.h \
+  /Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PFTwitterUtils.h \
+  /Users/gohome190/Documents/Code/Sermo/Parse.framework/Headers/PF_Twitter.h

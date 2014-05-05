@@ -19,5 +19,6 @@
 @property (strong, nonatomic) IBOutlet UILabel *SermoTitle;
 @property (strong, nonatomic) IBOutlet UILabel *HiLabel;
 @property (strong, nonatomic) IBOutlet UIButton *ContinueButton;
+@property (strong, nonatomic) IBOutlet UIButton *logInButton;
 
 @end
