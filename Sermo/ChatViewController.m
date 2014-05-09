@@ -12,7 +12,7 @@
 #import <Parse/Parse.h>
 
 
-#define kFirechatNS @"https://myapp.firebaseIO-demo.com/"
+#define kFirechatNS @"https://iossermo.firebaseio.com/"
 
 @implementation ChatViewController
 
@@ -32,6 +32,9 @@
     
     // Initialize the root of our Firebase namespace.
     //self.firebase = [[Firebase alloc] initWithUrl:kFirechatNS];
+    Firebase* f = [[Firebase alloc] initWithUrl:kFirechatNS];
+
+    [f setValue:@"testing ermo" ];
     
     // Pick a random number between 1-1000 for our username.
     //self.name = [NSString stringWithFormat:@"Guest%d", arc4random() % 1000];

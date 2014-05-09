@@ -39,9 +39,13 @@
 		98FF68001917FE3C00244F26 /* LogInViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 98FF67FF1917FE3C00244F26 /* LogInViewController.m */; };
 		98FF680219180B5600244F26 /* goback.png in Resources */ = {isa = PBXBuildFile; fileRef = 98FF680119180B5600244F26 /* goback.png */; };
 		98FF6805191A8EEF00244F26 /* ChatViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 98FF6804191A8EEF00244F26 /* ChatViewController.m */; };
-		98FF680D191BD7C600244F26 /* Firebase.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 98FF680C191BD7C600244F26 /* Firebase.framework */; };
 		98FF680F191BDBA800244F26 /* libicucore.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 98FF680E191BDBA800244F26 /* libicucore.dylib */; };
 		98FF6811191BDBB600244F26 /* libc++.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 98FF6810191BDBB600244F26 /* libc++.dylib */; };
+		98FF6813191D732900244F26 /* Firebase.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 98FF6812191D732900244F26 /* Firebase.framework */; };
+		98FF6815191D752000244F26 /* FacebookSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 98FF6814191D752000244F26 /* FacebookSDK.framework */; };
+		98FF6817191D753600244F26 /* Twitter.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 98FF6816191D753600244F26 /* Twitter.framework */; };
+		98FF6821191D75B600244F26 /* Accounts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 98FF6820191D75B600244F26 /* Accounts.framework */; };
+		98FF6823191D75C600244F26 /* Social.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 98FF6822191D75C600244F26 /* Social.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -96,9 +100,17 @@
 		98FF680119180B5600244F26 /* goback.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = goback.png; sourceTree = "<group>"; };
 		98FF6803191A8EEF00244F26 /* ChatViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChatViewController.h; sourceTree = "<group>"; };
 		98FF6804191A8EEF00244F26 /* ChatViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChatViewController.m; sourceTree = "<group>"; };
-		98FF680C191BD7C600244F26 /* Firebase.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Firebase.framework; sourceTree = "<group>"; };
 		98FF680E191BDBA800244F26 /* libicucore.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libicucore.dylib; path = usr/lib/libicucore.dylib; sourceTree = SDKROOT; };
 		98FF6810191BDBB600244F26 /* libc++.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libc++.dylib"; path = "usr/lib/libc++.dylib"; sourceTree = SDKROOT; };
+		98FF6812191D732900244F26 /* Firebase.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Firebase.framework; sourceTree = "<group>"; };
+		98FF6814191D752000244F26 /* FacebookSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FacebookSDK.framework; path = ../../FacebookSDK/FacebookSDK.framework; sourceTree = "<group>"; };
+		98FF6816191D753600244F26 /* Twitter.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Twitter.framework; path = System/Library/Frameworks/Twitter.framework; sourceTree = SDKROOT; };
+		98FF6818191D758B00244F26 /* AddressBook.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBook.framework; path = System/Library/Frameworks/AddressBook.framework; sourceTree = SDKROOT; };
+		98FF681A191D759500244F26 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		98FF681C191D759F00244F26 /* CoreMedia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMedia.framework; path = System/Library/Frameworks/CoreMedia.framework; sourceTree = SDKROOT; };
+		98FF681E191D75AC00244F26 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
+		98FF6820191D75B600244F26 /* Accounts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accounts.framework; path = System/Library/Frameworks/Accounts.framework; sourceTree = SDKROOT; };
+		98FF6822191D75C600244F26 /* Social.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Social.framework; path = System/Library/Frameworks/Social.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,12 +118,15 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				98FF6823191D75C600244F26 /* Social.framework in Frameworks */,
+				98FF6821191D75B600244F26 /* Accounts.framework in Frameworks */,
+				98FF6817191D753600244F26 /* Twitter.framework in Frameworks */,
+				98FF6815191D752000244F26 /* FacebookSDK.framework in Frameworks */,
 				98FF6811191BDBB600244F26 /* libc++.dylib in Frameworks */,
 				98FF680F191BDBA800244F26 /* libicucore.dylib in Frameworks */,
 				98139FA81913F85C00A03E15 /* MobileCoreServices.framework in Frameworks */,
 				98139FA91913F85C00A03E15 /* QuartzCore.framework in Frameworks */,
 				98139FAA1913F85C00A03E15 /* Security.framework in Frameworks */,
-				98FF680D191BD7C600244F26 /* Firebase.framework in Frameworks */,
 				98139FAB1913F85C00A03E15 /* StoreKit.framework in Frameworks */,
 				98139FAC1913F85C00A03E15 /* SystemConfiguration.framework in Frameworks */,
 				98139FA21913F83E00A03E15 /* libz.dylib in Frameworks */,
@@ -122,6 +137,7 @@
 				98139F661913F7C000A03E15 /* UIKit.framework in Frameworks */,
 				98139F9A1913F7E400A03E15 /* Parse.framework in Frameworks */,
 				98139F621913F7C000A03E15 /* Foundation.framework in Frameworks */,
+				98FF6813191D732900244F26 /* Firebase.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -160,9 +176,17 @@
 		98139F601913F7C000A03E15 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				98FF6822191D75C600244F26 /* Social.framework */,
+				98FF6820191D75B600244F26 /* Accounts.framework */,
+				98FF681E191D75AC00244F26 /* MediaPlayer.framework */,
+				98FF681C191D759F00244F26 /* CoreMedia.framework */,
+				98FF681A191D759500244F26 /* AVFoundation.framework */,
+				98FF6818191D758B00244F26 /* AddressBook.framework */,
+				98FF6816191D753600244F26 /* Twitter.framework */,
+				98FF6814191D752000244F26 /* FacebookSDK.framework */,
+				98FF6812191D732900244F26 /* Firebase.framework */,
 				98FF6810191BDBB600244F26 /* libc++.dylib */,
 				98FF680E191BDBA800244F26 /* libicucore.dylib */,
-				98FF680C191BD7C600244F26 /* Firebase.framework */,
 				98139FA31913F85C00A03E15 /* MobileCoreServices.framework */,
 				98139FA41913F85C00A03E15 /* QuartzCore.framework */,
 				98139FA51913F85C00A03E15 /* Security.framework */,
@@ -489,10 +513,12 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
+					/Users/zachlucas/Documents/FacebookSDK,
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Sermo/Sermo-Prefix.pch";
 				INFOPLIST_FILE = "Sermo/Sermo-Info.plist";
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
@@ -507,10 +533,12 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
+					/Users/zachlucas/Documents/FacebookSDK,
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Sermo/Sermo-Prefix.pch";
 				INFOPLIST_FILE = "Sermo/Sermo-Info.plist";
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
